@@ -1,6 +1,6 @@
 ### Olá👋
 
-- 🔭 Hoje trabalho em back-end
+- 🔭 Hoje trabalho em back-end e como scripter para MTA
 - 🌱 Estou aprendendo vue-js, react-js e c#
 
 ### Linguagens que eu uso
